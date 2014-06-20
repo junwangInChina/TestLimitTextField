@@ -1,0 +1,780 @@
+TTestLimitTextField
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.pch TestLimitTextField/TestLimitTextField-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField normal x86_64
+cCopyStringsFile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/en.lproj/InfoPlist.strings TestLimitTextField/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/Images.xcassets
+cProcessInfoPlistFile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/Info.plist /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Info.plist
+cGenerateDSYMFile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app.dSYM /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField
+cTouch /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000533B9FAC000000000058E0E0
+t1396416428
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533B9FAC00000000005B82F0
+t1396416428
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000533B9FAD00000000003599D0
+t1396416429
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000533B9FAD00000000002FC3B0
+t1396416429
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000533B9FAD000000000004B000
+t1396416429
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533B9FB10000000000037680
+t1396416433
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533B9FB2000000000048F720
+t1396416434
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000533B9FB2000000000013FD70
+t1396416434
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000533B9FCB00000000002BC360
+t1396416459
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533B9FD90000000000002338
+t1396416473
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000533B9FDA000000000008D370
+t1396416474
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533B9FDA0000000000392E20
+t1396416474
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000051F11C7E00000000000121D0
+t1374755966
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533B9FDA0000000000014A80
+t1396416474
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533B9FDA0000000000033BA0
+t1396416474
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000533B9FDA000000000001CFB0
+t1396416474
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000533B9FDA000000000001B2B0
+t1396416474
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000533B9FDA00000000000C9570
+t1396416474
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533B9FDA0000000000063280
+t1396416474
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533B9FDA0000000000008880
+t1396416474
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533B9FDA0000000000015080
+t1396416474
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000533B9FDA00000000000230F0
+t1396416474
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000533B9FDA000000000000E380
+t1396416474
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533B9FDA0000000000089380
+t1396416474
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533B9FDA0000000000017320
+t1396416474
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533B9FDA0000000000039CD0
+t1396416474
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000533B9FDA000000000000B0B0
+t1396416474
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533B9FDA0000000000167E80
+t1396416474
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000533B9FDA00000000000106A0
+t1396416474
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000533B9FDA000000000001CE40
+t1396416474
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000533B9FDA00000000000740C0
+t1396416474
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000533B9FDA000000000006CA60
+t1396416474
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000533B9FDA000000000001BAD0
+t1396416474
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533B9FDA0000000000084A20
+t1396416474
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c00000000533B9F77000000000000BB48
+t1396416375
+s47944
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000533B9F79000000000000514C
+t1396416377
+s20812
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.h
+c000000005310258400000000000007CA
+t1393567108
+s1994
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m
+c00000000531024A900000000000000C3
+t1393566889
+s195
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.h
+c00000000531028D7000000000000011F
+t1393567959
+s287
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m
+c000000005310394F0000000000000A6D
+t1393572175
+s2669
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.h
+c000000005310357B00000000000000FB
+t1393571195
+s251
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m
+c000000005310366800000000000003AB
+t1393571432
+s939
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.h
+c000000005310249700000000000000E2
+t1393566871
+s226
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m
+c00000000531025F60000000000000453
+t1393567222
+s1107
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.h
+c000000005310248D00000000000000C4
+t1393566861
+s196
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m
+c0000000053A3F2050000000000000B7C
+t1403253253
+s2940
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.h
+c000000005310251A000000000000017A
+t1393567002
+s378
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m
+c00000000531025450000000000000973
+t1393567045
+s2419
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/Images.xcassets
+c00000000531024400000000000000088
+t1393566784
+s136
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Info.plist
+c0000000053102440000000000000048F
+t1393566784
+s1167
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Prefix.pch
+c00000000531025000000000000000173
+t1393566976
+s371
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/en.lproj/InfoPlist.strings
+c0000000053102440000000000000002D
+t1393566784
+s45
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m
+c00000000531024400000000000000154
+t1393566784
+s340
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app
+t1403253270
+s272
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app.dSYM
+t1403253271
+s102
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/Info.plist
+t1403253270
+s1052
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/PkgInfo
+t1403253270
+s8
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField
+t1403253265
+s41944
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/en.lproj/InfoPlist.strings
+t1403253265
+s42
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.o
+t1403253262
+s72060
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.o
+t1403253262
+s3852
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.o
+t1403253262
+s50732
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.o
+t1403253262
+s56184
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.o
+t1403253262
+s46328
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/TestLimitTextField.LinkFileList
+c0000000053A3F20600000000000004B2
+t1403253254
+s1202
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.o
+t1403253262
+s45584
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.o
+t1403253262
+s3716
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/assetcatalog_dependencies.txt
+t1403253270
+s453
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/assetcatalog_generated_info.plist
+t1403253270
+s585
+
+N/usr/lib/libSystem.B.dylib
+c0000000051F11C6D000000000000D2A0
+t1374755949
+s53920
+
+N/usr/lib/system/libcache.dylib
+c0000000051F11C7E0000000000013870
+t1374755966
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005247DDD80000000000030250
+t1380441560
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000051F11C6D0000000000017910
+t1374755949
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000051F11C7D000000000001A130
+t1374755965
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c000000005247DE37000000000000C2A0
+t1380441655
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000051F11C7E0000000000008CE0
+t1374755966
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c000000005247DE3C000000000001D350
+t1380441660
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c0000000051F11C7D0000000000014F90
+t1374755965
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c000000005247DE44000000000000D790
+t1380441668
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c000000005247DE44000000000000C330
+t1380441668
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000051F11C7E000000000000A080
+t1374755966
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005247DE0500000000001F91C0
+t1380441605
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005247DE3C000000000001BC00
+t1380441660
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000051F11C6D000000000008B580
+t1374755949
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005247DE0500000000000569B0
+t1380441605
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000051F11C6D0000000000070540
+t1374755949
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000051F11C6D0000000000025620
+t1374755949
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005247DE25000000000000C780
+t1380441637
+s51072
+
+N/usr/lib/system/libunc.dylib
+c0000000051F11C78000000000000D430
+t1374755960
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c0000000051F11C7F000000000001BAA0
+t1374755967
+s113312
+
+N/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.pch
+t1403253261
+s121304
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesed286ed82b54b941^9f746ed82b54b941^---0#1#1#--18"Check dependencies36"7E123952-EE8E-4CC8-8830-4B088679F342-
+
+CCompileAssetCatalog /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/Images.xcassets
+s424946065.530937
+e424946070.742734
+r1
+xCompileAssetCatalog
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/LaunchImage-700-568h@2x.png
+o/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/LaunchImage-568h@2x.png
+o/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CompileAssetCatalog build/Debug-iphonesimulator/TestLimitTextField.app TestLimitTextField/Images.xcassets105"CompileAssetCatalog build/Debug-iphonesimulator/TestLimitTextField.app TestLimitTextField/Images.xcassetsd7f987912954b941^1424be962954b941^-481"/* com.apple.actool.compilation-results *//Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/LaunchImage-700-568h@2x.png/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/LaunchImage-568h@2x.png/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/Images.xcassets/0000000000000000^1270"CompileAssetCatalog build/Debug-iphonesimulator/TestLimitTextField.app TestLimitTextField/Images.xcassets    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 5.0 --target-device iphone --compress-pngs --compile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/Images.xcassets36"F62F7080-330E-4574-B41D-D5D3D667F25C-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424946062.021611
+e424946062.637912
+r1
+xCompileC
+xbuild/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m225"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.o TestLimitTextField/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e9f058e2954b941^664ea38e2954b941^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m0000000000000000^4065"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.o TestLimitTextField/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.m -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.o36"1D1F64E7-1312-4E0F-AF8A-39188AAD48F0-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424946062.022139
+e424946062.636444
+r1
+xCompileC
+xbuild/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m219"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.o Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfdbc058e2954b941^20eea28e2954b941^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m0000000000000000^4051"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.o Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.m -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.o36"9AE7867B-C739-4815-9C1E-1000158D79EE-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424946062.639592
+e424946062.846670
+r1
+xCompileC
+xbuild/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m227"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.o Classes/Common/LimitTextField.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler12dda38e2954b941^7fbfd88e2954b941^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m0000000000000000^4075"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.o Classes/Common/LimitTextField.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.m -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.o36"6CB1662E-D6B5-4C55-B7ED-DD1CB081F3A0-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424946062.636802
+e424946062.849827
+r1
+xCompileC
+xbuild/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/LimitTextField.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m223"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.o Classes/Views/MainView/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7d22a38e2954b941^758ed98e2954b941^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m0000000000000000^4055"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.o Classes/Views/MainView/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.m -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.o36"0FA947A1-93B3-405A-A952-016FD7DAFDDA-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424946062.638244
+e424946062.843684
+r1
+xCompileC
+xbuild/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Views/MainView/MainView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m254"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.o Classes/Controller/MainController/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a83a38e2954b941^5c02d88e2954b941^---0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m0000000000000000^4137"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.o Classes/Controller/MainController/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.m -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.o36"D0937AF5-59AF-4C14-9B98-06FA5F4A5F1E-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424946062.021620
+e424946062.653752
+r1
+xCompileC
+xbuild/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m233"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.o Classes/Common/UITextField+Limit.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9ca4058e2954b941^6878a78e2954b941^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m0000000000000000^4093"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.o Classes/Common/UITextField+Limit.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/UITextField+Limit.m -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.o36"86C4DBEF-2875-4ACA-8CB5-70681E31BE97-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CCompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424946062.021618
+e424946062.634861
+r1
+xCompileC
+xbuild/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/AppDelegate.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Controller/MainController/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m211"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.o TestLimitTextField/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilercaa5058e2954b941^6286a28e2954b941^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m0000000000000000^4023"CompileC build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.o TestLimitTextField/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/main.m -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.o36"78CD1B1A-2E87-4144-BE8B-5BC151E9FA0C-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CCopyStringsFile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/en.lproj/InfoPlist.strings TestLimitTextField/en.lproj/InfoPlist.strings
+s424946065.530949
+e424946065.560733
+r1
+xCopyStringsFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/en.lproj/InfoPlist.strings
+xTestLimitTextField/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy TestLimitTextField/en.lproj/InfoPlist.strings139"CopyStringsFile build/Debug-iphonesimulator/TestLimitTextField.app/en.lproj/InfoPlist.strings TestLimitTextField/en.lproj/InfoPlist.stringsecf887912954b941^978c8f912954b941^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/en.lproj/InfoPlist.strings0000000000000000^655"CopyStringsFile build/Debug-iphonesimulator/TestLimitTextField.app/en.lproj/InfoPlist.strings TestLimitTextField/en.lproj/InfoPlist.strings    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/en.lproj -- TestLimitTextField/en.lproj/InfoPlist.strings36"01798525-969B-41E4-B7F5-532FF5C1EE74-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CGenerateDSYMFile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app.dSYM /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField
+s424946070.762056
+e424946071.486238
+r1
+xGenerateDSYMFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app.dSYM
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generate /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app.dSYM142"GenerateDSYMFile build/Debug-iphonesimulator/TestLimitTextField.app.dSYM build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField672bc3962954b941^4a7a7c972954b941^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app.dSYM003860a6deffdf42^745"GenerateDSYMFile build/Debug-iphonesimulator/TestLimitTextField.app.dSYM build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app.dSYM36"63EBAA22-EDDF-4ACE-B3DE-582EC61FB03C-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CLd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField normal x86_64
+s424946062.858566
+e424946065.522457
+r1
+xLd
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField
+xnormal
+xx86_64
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/TestLimitTextField.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/UITextField+Limit.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/main.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/CommonDeal.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainView.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/MainViewController.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/LimitTextField.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField86"Ld build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField normal x86_64d3dbdb8e2954b941^23c085912954b941^---0#0#1#--1540"Ld build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField normal x86_64    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator -filelist /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/TestLimitTextField.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/Objects-normal/x86_64/TestLimitTextField_dependency_info.dat -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/TestLimitTextField36"20D51EB3-E000-4B5B-A8CA-32E753696F06-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CProcessInfoPlistFile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/Info.plist /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Info.plist
+s424946070.750931
+e424946070.753869
+r1
+xProcessInfoPlistFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/Info.plist
+x/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Process /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Info.plist131"ProcessInfoPlistFile build/Debug-iphonesimulator/TestLimitTextField.app/Info.plist TestLimitTextField/TestLimitTextField-Info.plist0a4bc0962954b941^e3fdc0962954b941^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Info.plist0000000000000000^1030"ProcessInfoPlistFile build/Debug-iphonesimulator/TestLimitTextField.app/Info.plist TestLimitTextField/TestLimitTextField-Info.plist    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Info.plist -genpkginfo /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/assetcatalog_generated_info.plist -o /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app/Info.plist36"BEB3DBAA-8F58-4FDB-988A-3E336E33733E-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/TestLimitTextField-ahjzmxhybvemeidlzunuaicokcza/Index/PrecompiledHeaders/TestLimitTextField-Prefix-dgcnxlgrauknnwcedvarctjaqtof_ast/TestLimitTextField-Prefix.pch.pch TestLimitTextField/TestLimitTextField-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.pch TestLimitTextField/TestLimitTextField-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424946054.469424
+e424946062.013193
+r1
+xProcessPCH
+x/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.pch
+xTestLimitTextField/TestLimitTextField-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Prefix.pch
+d/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/Classes/Common/CommonDeal.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile TestLimitTextField/TestLimitTextField-Prefix.pch336"ProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.pch TestLimitTextField/TestLimitTextField-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler394478862954b941^7c60038e2954b941^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Prefix.pch0000000000000000^4091"ProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.pch TestLimitTextField/TestLimitTextField-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/TestLimitTextField-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/TestLimitTextField.build/Debug-iphonesimulator/TestLimitTextField.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.d -c /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/TestLimitTextField/TestLimitTextField-Prefix.pch -o /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestLimitTextField-Prefix-bfleqrzclohbxhgckzusxnhzoofr/TestLimitTextField-Prefix.pch.pch36"C24D50A6-F97F-4ECA-B2CA-11511918114F-
+b846B2E14-B784-4842-8804-97C5294CB617
+
+CTouch /Users/user/Desktop/Desktop/WorkSpace/TestLimitTextField/build/Debug-iphonesimulator/TestLimitTextField.app
+r0
+
